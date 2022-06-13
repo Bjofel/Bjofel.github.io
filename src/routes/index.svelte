@@ -53,7 +53,7 @@
       display: flex;
       justify-content: start;
       overflow-y: scroll;
-      height: 80vh;
+      height: 85vh;
       background-color: #142c3d;
       width: 20vw;
       border-right: #3b82f6;
