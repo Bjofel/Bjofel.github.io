@@ -3,7 +3,7 @@ import { writable } from 'svelte/store';
 
 export const THEMES = {
     DARK: "mytheme",
-    LIGHT: "light",
+    LIGHT: "mytheme",
 };
 
 // if SSR (not browser rendered) the theme will be LIGHT
